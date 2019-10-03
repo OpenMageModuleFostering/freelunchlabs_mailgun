@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/FreeLunchLabs_MailGun",
+    "name": "OpenMageModuleFostering\/FreeLunchLabs_MailGun",
     "type": "magento-module",
     "license": "Massachusetts-Institute-of-Technology-License-(MITL)",
     "homepage": "",
     "description": "Community extension to send all transactional emails via MailGun. Tracks and stores outgoing emails. ",
     "authors": [
-    {
-        "name": "Charles Drew",
-        "email": "info@freelunchlabs.com"
-    }
-],
+        {
+            "name": "Charles Drew",
+            "email": "info@freelunchlabs.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
