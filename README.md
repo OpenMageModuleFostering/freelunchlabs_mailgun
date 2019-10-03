@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Community extension to send all transactional emails via MailGun. Tracks and stores outgoing emails. 
